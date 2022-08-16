@@ -1,6 +1,6 @@
 {
   "name": "packagable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jsnmgpnty/packagable#readme",
   "publishConfig": {
     "@jsnmgpnty:registry": "https://npm.pkg.github.com"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
   }
 }
